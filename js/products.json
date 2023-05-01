@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Карбонара",
+		"itemsInBox": 1,
+		"weight": 700,
+		"price": 500,
+		"imgSrc": "1pizza.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Маргарита",
+		"itemsInBox": 1,
+		"weight": 450,
+		"price": 270,
+		"imgSrc": "2pizza.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Пепперони",
+		"itemsInBox": 1,
+		"weight": 700,
+		"price": 450,
+		"imgSrc": "3pizza.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Грибная",
+		"itemsInBox": 1,
+		"weight": 650,
+		"price": 430,
+		"imgSrc": "4pizza.jpg"
+	}
+]
